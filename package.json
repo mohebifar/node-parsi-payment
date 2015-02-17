@@ -1,0 +1,29 @@
+{
+  "name": "parsi-payment",
+  "version": "1.0.0-alpha",
+  "description": "A Node.js module providing access to the Iran's Shetab Payment API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohebifar/node-parsi-payment.git"
+  },
+  "keywords": [
+    "shetab",
+    "iran",
+    "payment",
+    "shaparak",
+    "mellat",
+    "zarinpal",
+    "parspal",
+    "bank"
+  ],
+  "author": "Mohamad Mohebifar <mohamad@mohebifar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohebifar/node-parsi-payment/issues"
+  },
+  "homepage": "https://github.com/mohebifar/node-parsi-payment"
+}
