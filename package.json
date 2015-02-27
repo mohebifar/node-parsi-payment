@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/mohebifar/node-parsi-payment/issues"
   },
-  "homepage": "https://github.com/mohebifar/node-parsi-payment"
+  "homepage": "https://github.com/mohebifar/node-parsi-payment",
+  "dependencies": {
+    "soap": "^0.7.0"
+  }
 }
